@@ -32,8 +32,6 @@
 		Give users a modern and native macOS app with your corporate identity</string>
 		<key>SELF_SERVICE_ICON</key>
 		<string>%NAME%.png</string>
-		<key>VERSION</key>
-		<string>%version%</string>
 		<key>INSTALL_BUTTON_TEXT</key>
 		<string>Install %version%</string>
 		<key>REINSTALL_BUTTON_TEXT</key>
